@@ -1,6 +1,6 @@
 # HLS Player with PlayerJS
 
-A simple front built around [PlayerJS](https://playerjs.com/) to make watching streaming video URLS on the web as easy as possible.
+A simple front built around [PlayerJS](https://playerjs.com/) to make playing streaming video URLS on the web as easy as possible.
 
 You can see it at work here → [https://sieyin.github.io/hls-player/](https://sieyin.github.io/hls-player/).
 
